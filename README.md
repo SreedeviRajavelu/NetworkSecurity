@@ -3,6 +3,9 @@
 Network Devices - Hosts, IP Addresses, Networks - Networking Fundamentals - Lesson 1a
 https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi
 
+Network Stacks and the Internet - Computerphile
+https://youtu.be/PG9oKZdFb7w?feature=shared
+
 How Address Resolution Protocol (ARP) Works? - GeeksforGeeks https://www.geeksforgeeks.org/how-address-resolution-protocol-arp-works/
 
 A Model for Network Security - GeeksforGeeks https://www.geeksforgeeks.org/a-model-for-network-security/?ref=previous_article
