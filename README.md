@@ -1,12 +1,12 @@
 # NetworkSecurity
 
-How Address Resolution Protocol (ARP) Works? - GeeksforGeeks
+How Address Resolution Protocol (ARP) Works? - GeeksforGeeks https://www.geeksforgeeks.org/how-address-resolution-protocol-arp-works/
 
-A Model for Network Security - GeeksforGeeks
+A Model for Network Security - GeeksforGeeks https://www.geeksforgeeks.org/a-model-for-network-security/?ref=previous_article
 
-What is Traceroute? (Definition, How Does it Work) | Built In
+What is Traceroute? (Definition, How Does it Work) | Built In https://builtin.com/articles/traceroute
 
-What is DNS? | How DNS works | Cloudflare
+What is DNS? | How DNS works | Cloudflare https://www.cloudflare.com/learning/dns/what-is-dns/
 
 Public Key Cryptography - Computerphile
 https://youtu.be/GSIDS_lvRv4?feature=shared
@@ -44,10 +44,10 @@ https://youtu.be/s22eJ1eVLTU?feature=shared
 Man in the Middle Attacks & Superfish - Computerphile
 https://youtu.be/-enHfpHMBo4?feature=shared
 
-ARP Poisoning: What it is & How to Prevent ARP Spoofing Attacks
+ARP Poisoning: What it is & How to Prevent ARP Spoofing Attacks https://www.varonis.com/blog/arp-poisoning
 
-What is a Network Switch and How Does it Work? - GeeksforGeeks
+What is a Network Switch and How Does it Work? - GeeksforGeeks https://www.geeksforgeeks.org/what-is-a-network-switch-and-how-does-it-work/
 
-Network Layer Protocols - GeeksforGeeks
+Network Layer Protocols - GeeksforGeeks https://www.geeksforgeeks.org/network-layer-protocols/
 
-How the Iptables Firewall Works | DigitalOcean
+How the Iptables Firewall Works | DigitalOcean https://www.digitalocean.com/community/tutorials/how-the-iptables-firewall-works
