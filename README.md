@@ -25,9 +25,11 @@ https://youtu.be/7MT1F0O3_Yw?feature=shared
 
 SSL Stripping Attack:
 What is an SSL Stripping Attack? Risks and Prevention Explained - SSL Dragon
+https://www.ssldragon.com/blog/ssl-stripping/
 
 What is SSL Renegotiation and how to stop it:
 What is an SSL Renegotiation Attack and How to Stop It?
+https://www.ssldragon.com/blog/what-is-ssl-renegotiation/
 
 TLS Handshake Explained - Computerphile
 https://youtu.be/86cQJ0MMses?feature=shared
