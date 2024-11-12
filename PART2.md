@@ -14,3 +14,8 @@ https://www.cloudflare.com/learning/security/glossary/what-is-bgp/
 What Is BGP Hijacking :
 
 https://www.cloudflare.com/learning/security/glossary/bgp-hijacking/
+
+RESOURCE PKI :
+
+https://networklessons.com/bgp/resource-public-key-infrastructure-rpki
+
