@@ -3,6 +3,8 @@ What is cross-site scripting? | Cloudflare
 
 https://www.cloudflare.com/learning/security/threats/cross-site-scripting/#:~:text=Cross%2Dsite%20scripting%20(XSS),client%2Dside%20code%20injection%20attack.
 
+Creating a Cross-Site Scripting Worm: A SEED Lab Project
+
 https://medium.com/@trixiahorner/creating-a-cross-site-scripting-worm-a-seed-lab-project-49076b7a8d03
 
 What is SQL Injection:
