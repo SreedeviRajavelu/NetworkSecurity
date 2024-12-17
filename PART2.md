@@ -11,6 +11,10 @@ What is SQL Injection:
 
 https://portswigger.net/web-security/sql-injection
 
+BORDER GATEWAY PROTOCOL (BGP) - COMPUTERPHILE
+
+https://youtu.be/O6tCoD5c_U0?feature=shared
+
 What is BGP :
 
 - https://www.cloudflare.com/learning/security/glossary/what-is-bgp/
