@@ -39,3 +39,6 @@ https://youtu.be/QRYzre4bf7I?feature=shared
 
 https://www.geeksforgeeks.org/onion-routing/
 
+TOR HIDDENS SERVICES - COMPUTERPHILE
+
+https://youtu.be/lVcbq_a5N9I?feature=shared
