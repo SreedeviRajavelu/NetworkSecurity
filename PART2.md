@@ -28,3 +28,13 @@ https://networklessons.com/bgp/resource-public-key-infrastructure-rpki
 BGPSEC :
 
 https://www.noction.com/blog/bgpsec-protocol
+
+SQL INJECTION:
+
+https://www.blog.duomly.com/sql-injection-attack-tutorial-for-beginners/
+
+Anonymous Routing - The Onion Routing
+
+https://youtu.be/QRYzre4bf7I?feature=shared
+
+
